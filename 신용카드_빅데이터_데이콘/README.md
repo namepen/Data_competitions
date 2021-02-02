@@ -13,7 +13,7 @@
 
 ### 데이터
 
-1. 2019.01 ~ 2020.03 기간 내 신용카드 사용 내역 데이터(지역별, 성별, 생애주기가구별)
+1. [2019.01 ~ 2020.03 기간 내 신용카드 사용 내역 데이터(지역별, 성별, 생애주기가구별)](https://dacon.io/competitions/official/235615/data/)
 2. [경제활동 인구](http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1DA7014S_01&vw_cd=MT_GTITLE01&list_id=106&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_GTITLE01) (국가통계포털)
 3. [취업자증감수](http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20541&vw_cd=MT_GTITLE01&list_id=106&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_GTITLE01) (국가통계포털)
 4. [대형소매점 판매액](http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1K31005_01&vw_cd=MT_GTITLE01&list_id=109&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_GTITLE01) (국가통계포털)
