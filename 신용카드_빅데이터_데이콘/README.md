@@ -42,11 +42,9 @@
 - 주요 변수 : 취업자 증감수, 광공업생산지수, 생활물가지수_전월세 등
 - 사용 전 score : 1.506 → 사용 후 score 1.126
 
-#![img/Untitled.png](img/Untitled.png)
-<img src="img/Untitled.png" alt="drawing" width="200"/>
+  1. 외부 데이터 사용 전 모델 feature importance
+  <img src="img/Untitled.png" alt="drawing" width="500"/>
 
-외부 데이터 사용 전 모델 feature importance
 
-![img/Untitled%201.png](img/Untitled%201.png)
-
-외부 데이터 사용 모델 feature importance
+  2. 외부 데이터 사용 모델 feature importance
+  <img src="img/Untitled 1.png" alt="drawing" width="500"/>
