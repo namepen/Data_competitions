@@ -45,6 +45,7 @@
 - LIghtGBM with 5 fold
 - KFold 외, 챕터 및 발생한 로그의 수를 기반으로 그룹화한 후 GroupKFold로 학습 데이터를 분리하는 등의 Fold 전략 사용
 - Grid search 및 Bayesian Optimizer로 모델 파라미터 튜닝
+- 분류 모델이 아닌 회귀 모델로 변경하여 학습 후, score를 기준으로 4가지 집단으로 분리하여 예측
 
 ### 기타
 
