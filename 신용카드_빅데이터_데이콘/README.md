@@ -9,7 +9,7 @@
 ### 결과
 
 - 평가 SCORE : 1.126
-- 시각화 코드공유 1위(42 vote) : [코드 링크](https://dacon.io/competitions/official/235615/codeshare/1302?page=1&dtype=recent&ptype=pub)
+- 팀원 시각화 코드공유 1위(42 vote) : [코드 링크](https://dacon.io/competitions/official/235615/codeshare/1302?page=1&dtype=recent&ptype=pub)
 
 ### 데이터
 
