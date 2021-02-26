@@ -7,6 +7,7 @@
 - 기간 : 2020.03.01 ~ 2020.04.15
 - 결과 : 7위
 - 코드 공유 : [Kaggle Link](www.kaggle.com/dataset/b369d2abc34ae1f98490d105bbffcd7f0fac878cfbf9a934a6ef04f7b63a99cc)
+- 코드 공유 링크 : www.kaggle.com/dataset/b369d2abc34ae1f98490d105bbffcd7f0fac878cfbf9a934a6ef04f7b63a99cc
 
 ## Data Description
 
