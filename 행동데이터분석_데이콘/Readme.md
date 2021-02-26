@@ -56,7 +56,7 @@ data.info()
 
 제공된 데이터를 가공해서 전체 게임 로그를 한줄의 rows로 만들고, 1번 플레이어가 이길 확률값을 예측하는 모델을 구성하기로 했습니다. 
 
-최종 제출 당시, 만든 features의 수는 xx개이며, 상관계수(`corr`)를 이용한 feature selection을 적용한 후 모델에 학습시킨 feature수는 xx개 입니다.
+최종 제출 당시, 상관계수(`corr`)를 이용한 feature selection을 적용하여 변수 간 상관계수가 높은 변수는 제외하였습니다.
 
 # Features
 
